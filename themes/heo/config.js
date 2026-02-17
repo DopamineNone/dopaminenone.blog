@@ -25,9 +25,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '技术干货', url: '/tag/技术干货' },
-  HEO_HERO_CATEGORY_2: { title: '个人思考', url: '/tag/个人思考' },
-  HEO_HERO_CATEGORY_3: { title: '碎片记录', url: '/tag/碎片记录' },
+  HEO_HERO_CATEGORY_1: { title: '技术笔记', url: '/tag/技术笔记' },
+  HEO_HERO_CATEGORY_2: { title: '推荐博文', url: '/tag/推荐博文' },
+  HEO_HERO_CATEGORY_3: { title: '个人思考', url: '/tag/个人思考' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: 'Recommend',
